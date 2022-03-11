@@ -2,7 +2,7 @@
 - 👀 I’m interested in ubuntu imaging on seeed reterminal
 - 🌱 I’m currently learning how to image a raspberry pi with Ubuntu
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me crytopoboy@gmail.com
+- 📫 How to reach me cryptopoboy@gmail.com
 
 <!---
 oleblueyes/oleblueyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
